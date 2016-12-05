@@ -1,0 +1,22 @@
+{
+  "name": "fcc-whomai",
+  "version": "1.0.0",
+  "description": "free code camp project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaryGolf/fcc-whomai.git"
+  },
+  "author": "garygolf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GaryGolf/fcc-whomai/issues"
+  },
+  "homepage": "https://github.com/GaryGolf/fcc-whomai#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
